@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+        int a;
+        int b;
+
+        printf("Entre un nombre a : ");
+        scanf("%d", &a);
+        printf("Entre un nombre b : ");
+        scanf("%d", &b);
+
+        printf("Somme : %d\n",  a+b);
+        return 0;
+}
