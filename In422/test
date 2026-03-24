@@ -9,6 +9,10 @@ int main(){
         printf("Entre un nombre b : ");
         scanf("%d", &b);
 
+<<<<<<< HEAD
         printf("multiplication : %d\n",  a*b);
+=======
+        printf("divisé : %d\n",  a/b);
+>>>>>>> 442e2594b16cf1720edc097f9ef280ebf27d0fff
         return 0;
 }
